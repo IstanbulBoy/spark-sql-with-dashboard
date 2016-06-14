@@ -49,7 +49,7 @@ Command to load the data to table
 ####Caching the table 
 Execute below command to cache the table nyctrips.
 
-	```Syncfusion.Bigdata.ThriftApplication.exe spark-thriftserverhostname:port "cache table nyctrips"```
+	Syncfusion.Bigdata.ThriftApplication.exe spark-thriftserverhostname:port "cache table nyctrips"
 
 ####Partitioning the table based on year 
 By using SQL context, we are partitioning the table **nyctrips** by year in spark-shell
