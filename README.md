@@ -1,4 +1,12 @@
 ##Summarize a billion records using the Syncfusion Dashboard Platform###
+###Prerequisite 
+
+Download and install Syncfusion Big Data Platform and Dashboard Platform from below links
+
+[Big Data Platform](https://www.syncfusion.com/products/big-data)
+
+[Dashboard Platform](https://www.syncfusion.com/products/dashboard)
+
 ###Upload the data set into HDFS
 Perform below steps to upload the data set into HDFS.
 
